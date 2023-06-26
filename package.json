@@ -1,0 +1,16 @@
+{
+  "name": "cypress-basics-tau",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd trelloapp & npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.33.1",
+    "cypress": "^12.14.0"
+  }
+}
