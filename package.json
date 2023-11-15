@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "cd trelloapp & npm start"
+    "cy:open": "./node_modules/.bin/cypress open --e2e --browser chrome",
+    "cy:run": "./node_modules/.bin/cypress run",
+    "postinstall": "git submodule update --init --recursive --remote && cd trelloapp && npm install",
+    "start": "cd trelloapp && npm start",
+    "trello": "cd trelloapp && npm start"
   },
   "keywords": [],
   "author": "",
