@@ -10,8 +10,12 @@
     "start": "cd trelloapp && npm start",
     "trello": "cd trelloapp && npm start"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cypress",
+    "workshop",
+    "javascript"
+  ],
+  "author": "Filip Hric (https://filiphric.com/)",
   "license": "ISC",
   "dependencies": {
     "@applitools/eyes-cypress": "^3.33.1",

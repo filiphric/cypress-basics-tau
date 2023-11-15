@@ -1,10 +1,12 @@
-# cypress-basics-tau
+# Introduction to Cypress - Test automation university
+
+This is a companion repository for the [Introduction to Cypress course on Test Automation university](https://testautomationu.applitools.com/cypress-getting-started/)
 
 ## Author
 I am Filip. I am DevRel at [Replay.io](https://replay.io) and a [Cypress ambassador](https://cypress.io/ambassadors/)
 
 ## What’s in this repo
-This repo contains all the materials for the couirs. Most of the chapters start with `demo_start.js` and finish with `demo_end.js` file. You can find code challenges in the `challenge.js` file and solutions in the `challenge_solution.js` file.
+This repo contains all the materials for the course. Most of the chapters start with `[chapter_name]_start.js` and finish with `[chapter_name]_end.js` file. 
 
 ## Trello clone app
 Bundled as a submodule is an app that is a clone of a popular [Trello app](https://trello.com). You can create boards, lists and cards. You can drag and drop cards between tests or even upload a picture to the card detail. There’s also a very simple signup and login which will allow you to create private boards
