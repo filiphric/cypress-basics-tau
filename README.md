@@ -9,7 +9,7 @@ I am Filip. I am DevRel at [Replay.io](https://replay.io) and a [Cypress ambassa
 This repo contains all the materials for the course. Most of the chapters start with `[chapter_name]_start.js` and finish with `[chapter_name]_end.js` file. 
 
 ## Trello clone app
-Bundled as a submodule is an app that is a clone of a popular [Trello app](https://trello.com). You can create boards, lists and cards. You can drag and drop cards between tests or even upload a picture to the card detail. There’s also a very simple signup and login which will allow you to create private boards
+Bundled as a submodule is an app that is a clone of a popular [Trello app](https://trello.com). You can create boards, lists and cards. You can drag and drop cards between lists or even upload a picture to the card detail. There’s also a very simple signup and login which will allow you to create private boards
 
 ### Installation
 Super simple
